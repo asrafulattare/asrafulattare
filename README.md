@@ -6,7 +6,13 @@
 
 I'm a Final Year student enrolled in National University, Bangladesh. I have been developing mobile apps for over 2 years now. I have worked in teams for various startups and helped them in launching their prototypes and got valuable learning experience. I'm an active  Freelancer working on Fiverr & Upwork.
 
-Skills: DART / REACT / JS / HTML / CSS / PHP
+## 👨‍💻 Skills & Experiance: 
+✅ Flutter <br> 
+✅ WordPress <br> 
+✅ JavaScript <br>
+✅ PHP <br>
+✅ HTML <br>
+✅ Photoshop / Illustrator <br>
 
 - 🔭 I’m currently working on Fiverr & Upwork 
 - 🌱 I’m currently learning Dart 
